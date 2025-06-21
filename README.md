@@ -18,9 +18,8 @@ demonstrate that SAFSD-GLNet outperforms previous state-of-the-art baselines.
 ## 🛠️ Setup
 
 ### Preparing the Code and Environment
-
+https://anonymous.4open.science/r/SAFSD-GLNet
 ```bash
-git clone https://github.com/ZebangCheng/Emotion-LLaMA.git
 cd SAFSD-GLNet
 conda activate SAFSD-GLNet
 ```
@@ -29,10 +28,9 @@ conda activate SAFSD-GLNet
 
 pip install -r requirements.txt
 ```
-- Download the preprocessed datasets from [here](https://drive.google.com/drive/folders/1cT9B8TFaXLZGlegf2MEqqXPSBuYjlNwN?usp=sharing), and put them into `data/`.
+
 
 
 ## 🙏 Acknowledgements
-This work was supported inpart by the National Natural Science Foundation of China under Grant No.82360280, 
-the Yunnan Key Laboratory of Media Convergence under Grant No.220225201.
+
 
